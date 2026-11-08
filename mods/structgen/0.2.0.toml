@@ -1,6 +1,6 @@
 # Shown in the launcher. The newest version's say what the mod is.
 name = "structgen"
-summary = "Generates structures from .wst files in the overworld, alone and as hamlets."
+summary = "Generates structures and hamlets across the overworld, and lets you save and load your own."
 author = "Zorro909"
 
 # What is built: the crate in `dir` of `repo` at `commit`, against the SDK of `weft`.
