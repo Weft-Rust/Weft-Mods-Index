@@ -1,3 +1,23 @@
 {
- "mods": []
+ "mods": [
+  {
+   "id": "beauty_of_nature",
+   "builds": [
+    {
+     "version": "0.1.5",
+     "weft": "v26.11.4",
+     "abi": "08bc9e39aa65d76c",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/beauty_of_nature-0.1.5-v26.11.4/beauty_of_nature.zip",
+     "sha256": "60cb32115831201a0808e99bc1c58c564faafa71081b35d3cd979c95f47c5b6d",
+     "deps": [],
+     "verified": false,
+     "auto": false
+    }
+   ],
+   "name": "beauty_of_nature",
+   "summary": "Adds new plants, rocks, and natural decorations.",
+   "author": "L10nM4st3r",
+   "source": "https://github.com/L10nM4st3r/Weft-Mods"
+  }
+ ]
 }

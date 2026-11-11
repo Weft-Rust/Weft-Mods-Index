@@ -1,4 +1,15 @@
 {
- "built": [],
+ "built": [
+  {
+   "id": "beauty_of_nature",
+   "version": "0.1.5",
+   "commit": "4533b28e7a1c8f26a2534a0c36aa9c506fc15c38",
+   "target": "v26.11.4",
+   "auto": false,
+   "abi": "08bc9e39aa65d76c",
+   "sha256": "60cb32115831201a0808e99bc1c58c564faafa71081b35d3cd979c95f47c5b6d",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/beauty_of_nature-0.1.5-v26.11.4/beauty_of_nature.zip"
+  }
+ ],
  "failed": []
 }
