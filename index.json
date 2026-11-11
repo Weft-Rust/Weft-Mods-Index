@@ -39,6 +39,25 @@
    "source": "https://github.com/Zorro909/weft-mods"
   },
   {
+   "id": "showcase",
+   "builds": [
+    {
+     "version": "0.3.0",
+     "weft": "v26.11.4",
+     "abi": "08bc9e39aa65d76c",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/showcase-0.3.0-v26.11.4/showcase.zip",
+     "sha256": "c829870be146f80b5a53e7db096017902a521f432b7e18d9648884a5e8d9f414",
+     "deps": [],
+     "verified": false,
+     "auto": true
+    }
+   ],
+   "name": "showcase",
+   "summary": "Plays camera films that mods make to show off their content.",
+   "author": "Zorro909",
+   "source": "https://github.com/Zorro909/weft-mods"
+  },
+  {
    "id": "slow_start",
    "builds": [
     {
