@@ -77,6 +77,25 @@
    "summary": "Makes the early-game (pre-crafting table) much longer in a hopefully non-tedious way.",
    "author": "L10nM4st3r",
    "source": "https://github.com/L10nM4st3r/Weft-Mods"
+  },
+  {
+   "id": "structgen",
+   "builds": [
+    {
+     "version": "0.3.0",
+     "weft": "v26.11.4",
+     "abi": "08bc9e39aa65d76c",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.3.0-v26.11.4/structgen.zip",
+     "sha256": "2fc121370185a486a2de6377a709be55e6e422e8382b5ee1bee043d960cb3bd3",
+     "deps": [],
+     "verified": false,
+     "auto": true
+    }
+   ],
+   "name": "structgen",
+   "summary": "Generates structures and hamlets across the overworld, and lets you save and load your own.",
+   "author": "Zorro909",
+   "source": "https://github.com/Zorro909/weft-mods"
   }
  ]
 }
