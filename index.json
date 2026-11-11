@@ -20,6 +20,25 @@
    "source": "https://github.com/L10nM4st3r/Weft-Mods"
   },
   {
+   "id": "cogwork",
+   "builds": [
+    {
+     "version": "0.3.0",
+     "weft": "v26.11.4",
+     "abi": "08bc9e39aa65d76c",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.3.0-v26.11.4/cogwork.zip",
+     "sha256": "4483ee4a9d76de48b6affeda3c63163466f21e930935d2d38dac02278964156d",
+     "deps": [],
+     "verified": false,
+     "auto": true
+    }
+   ],
+   "name": "cogwork",
+   "summary": "Tubes, engines and machines that automate mining, crafting and leveling land.",
+   "author": "Zorro909",
+   "source": "https://github.com/Zorro909/weft-mods"
+  },
+  {
    "id": "slow_start",
    "builds": [
     {

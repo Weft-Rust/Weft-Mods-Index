@@ -19,6 +19,16 @@
    "abi": "08bc9e39aa65d76c",
    "sha256": "cd782e5f7f6c08b9de5443197447312de8f64815ade73bf0a3dfe36f09c06c3e",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/slow_start-0.1.3-v26.11.4/slow_start.zip"
+  },
+  {
+   "id": "cogwork",
+   "version": "0.3.0",
+   "commit": "08b4a9dd5f8510bdadae35796d444b2b60599b65",
+   "target": "v26.11.4",
+   "auto": true,
+   "abi": "08bc9e39aa65d76c",
+   "sha256": "4483ee4a9d76de48b6affeda3c63163466f21e930935d2d38dac02278964156d",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.3.0-v26.11.4/cogwork.zip"
   }
  ],
  "failed": []
