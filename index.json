@@ -82,6 +82,16 @@
    "id": "structgen",
    "builds": [
     {
+     "version": "0.4.0",
+     "weft": "v26.11.4",
+     "abi": "08bc9e39aa65d76c",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.0-v26.11.4/structgen.zip",
+     "sha256": "a5ab5f2e0120e8f6482094f879b39ede10a212be27f323d5a28fda3eeb736765",
+     "deps": [],
+     "verified": false,
+     "auto": false
+    },
+    {
      "version": "0.3.0",
      "weft": "v26.11.4",
      "abi": "08bc9e39aa65d76c",
@@ -93,7 +103,7 @@
     }
    ],
    "name": "structgen",
-   "summary": "Generates structures and hamlets across the overworld, and lets you save and load your own.",
+   "summary": "Hamlets, villages and towns across the overworld, each laid out afresh from the land it stands on, with roads, gardens…",
    "author": "Zorro909",
    "source": "https://github.com/Zorro909/weft-mods"
   }
