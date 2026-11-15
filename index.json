@@ -63,6 +63,16 @@
    "builds": [
     {
      "version": "0.3.1",
+     "weft": "v26.11.5",
+     "abi": "cda7c012d4e69a88",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/showcase-0.3.1-v26.11.5/showcase.zip",
+     "sha256": "a10e3b77195057d3ca9d98c8b4937dbe72274d7f07c7ba91e01eaf471af6f39f",
+     "deps": [],
+     "verified": false,
+     "auto": true
+    },
+    {
+     "version": "0.3.1",
      "weft": "v26.11.4",
      "abi": "08bc9e39aa65d76c",
      "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/showcase-0.3.1-v26.11.4/showcase.zip",
