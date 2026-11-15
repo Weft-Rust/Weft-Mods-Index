@@ -79,6 +79,16 @@
    "abi": "08bc9e39aa65d76c",
    "sha256": "dd89e7a7b6bbf994200c67c6e7a61610f70a172bc77a05f840916b3929e2c265",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/showcase-0.3.1-v26.11.4/showcase.zip"
+  },
+  {
+   "id": "cogwork",
+   "version": "0.4.0",
+   "commit": "2584892b95b4d272cd0d0c27996f4740cc539d19",
+   "target": "v26.11.5",
+   "auto": true,
+   "abi": "cda7c012d4e69a88",
+   "sha256": "e6358519c0d576ab434effb159442210679cc28ea090f8edd996441e1d6d6296",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.4.0-v26.11.5/cogwork.zip"
   }
  ],
  "failed": [
