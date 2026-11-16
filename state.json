@@ -119,6 +119,16 @@
    "abi": "cda7c012d4e69a88",
    "sha256": "27db9397cf80afdebd9efad3bbe95727421d5cae45a27fdb36212bd854a1b897",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.0-v26.11.5/structgen.zip"
+  },
+  {
+   "id": "structgen",
+   "version": "0.4.1",
+   "commit": "1439d6c8a5af0f6cf124c29d4d80fe7ee51fb624",
+   "target": "v26.11.5",
+   "auto": false,
+   "abi": "cda7c012d4e69a88",
+   "sha256": "d36a62bde5baaefe04cca0d1944d3799dd50aa03b9fb87f21621eb58cc2105f4",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.1-v26.11.5/structgen.zip"
   }
  ],
  "failed": [

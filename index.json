@@ -134,6 +134,16 @@
    "id": "structgen",
    "builds": [
     {
+     "version": "0.4.1",
+     "weft": "v26.11.5",
+     "abi": "cda7c012d4e69a88",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.1-v26.11.5/structgen.zip",
+     "sha256": "d36a62bde5baaefe04cca0d1944d3799dd50aa03b9fb87f21621eb58cc2105f4",
+     "deps": [],
+     "verified": true,
+     "auto": false
+    },
+    {
      "version": "0.4.0",
      "weft": "v26.11.5",
      "abi": "cda7c012d4e69a88",
