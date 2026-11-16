@@ -159,6 +159,16 @@
    "abi": "cda7c012d4e69a88",
    "sha256": "50a88124ea1d600406fd93bb56c044f5033c541386dd3363817220b8d767de48",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/beauty_of_nature-0.1.6-v26.11.5/beauty_of_nature.zip"
+  },
+  {
+   "id": "slow_start",
+   "version": "0.1.4",
+   "commit": "2eb236026559bd6d89f5b4df1ad79a00bfb213ed",
+   "target": "v26.11.5",
+   "auto": false,
+   "abi": "cda7c012d4e69a88",
+   "sha256": "7df033244fc78c3bec76d988bf3ba58ee890c8923d0f3f9a8037642c5fe00f88",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/slow_start-0.1.4-v26.11.5/slow_start.zip"
   }
  ],
  "failed": [
