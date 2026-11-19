@@ -141,6 +141,18 @@
    "id": "slow_start",
    "builds": [
     {
+     "version": "0.1.5",
+     "weft": "v26.11.6",
+     "abi": "d7384099585bbb46",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/slow_start-0.1.5-v26.11.6/slow_start.zip",
+     "sha256": "40862d2019317e97591abce4d8e9e897199576dd74ae9899d6621dbc14022e89",
+     "deps": [
+      "beauty_of_nature"
+     ],
+     "verified": true,
+     "auto": false
+    },
+    {
      "version": "0.1.4",
      "weft": "v26.11.5",
      "abi": "cda7c012d4e69a88",
