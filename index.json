@@ -4,6 +4,16 @@
    "id": "beauty_of_nature",
    "builds": [
     {
+     "version": "0.1.7",
+     "weft": "v26.11.6",
+     "abi": "d7384099585bbb46",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/beauty_of_nature-0.1.7-v26.11.6/beauty_of_nature.zip",
+     "sha256": "e03e1b3b6723d087d5da0b5f35ac5f1dd5e20955157b6466415f43e9dc2cc86d",
+     "deps": [],
+     "verified": true,
+     "auto": false
+    },
+    {
      "version": "0.1.6",
      "weft": "v26.11.5",
      "abi": "cda7c012d4e69a88",

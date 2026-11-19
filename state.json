@@ -189,6 +189,16 @@
    "abi": "d7384099585bbb46",
    "sha256": "77874a0bb488b8c9d8b75c75872e3b1872e6ee699a86499b946b9ef50cd610b2",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/tetanus-0.1.4-v26.11.6/tetanus.zip"
+  },
+  {
+   "id": "beauty_of_nature",
+   "version": "0.1.7",
+   "commit": "41d362fe77647d5bfd7ff9fd10e76048130bc857",
+   "target": "v26.11.6",
+   "auto": false,
+   "abi": "d7384099585bbb46",
+   "sha256": "e03e1b3b6723d087d5da0b5f35ac5f1dd5e20955157b6466415f43e9dc2cc86d",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/beauty_of_nature-0.1.7-v26.11.6/beauty_of_nature.zip"
   }
  ],
  "failed": [
