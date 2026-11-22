@@ -259,6 +259,16 @@
    "abi": "e7163e8ed1b08104",
    "sha256": "279a8c3fc1936cae3dec6b94f8f973b6ecb70f8c0edc058d331d2dce0bec4564",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/showcase-0.3.2-v26.11.7/showcase.zip"
+  },
+  {
+   "id": "structgen",
+   "version": "0.4.1",
+   "commit": "1439d6c8a5af0f6cf124c29d4d80fe7ee51fb624",
+   "target": "v26.11.7",
+   "auto": true,
+   "abi": "e7163e8ed1b08104",
+   "sha256": "fa1e49a18a202175619636b2d46b21db0c6268edb2164f3a7d80f70ada214598",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.1-v26.11.7/structgen.zip"
   }
  ],
  "failed": [
