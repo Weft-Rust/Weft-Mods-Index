@@ -289,6 +289,26 @@
    "abi": "e7163e8ed1b08104",
    "sha256": "f0b455021a04f3a84e80c9318726aee0eb314eace050c7a9bc69868a410c8ac8",
    "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/structgen-0.4.2-v26.11.7/structgen.zip"
+  },
+  {
+   "id": "cogwork",
+   "version": "0.4.2",
+   "commit": "cace71894d3bca96e7da8b36e3b487b99b9bbe4f",
+   "target": "v26.11.6",
+   "auto": false,
+   "abi": "d7384099585bbb46",
+   "sha256": "8bb170e126074bb198f068380509fbffd8c311bb1ade96d6a17da65e1c4938d1",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.4.2-v26.11.6/cogwork.zip"
+  },
+  {
+   "id": "cogwork",
+   "version": "0.4.2",
+   "commit": "cace71894d3bca96e7da8b36e3b487b99b9bbe4f",
+   "target": "v26.11.7",
+   "auto": true,
+   "abi": "e7163e8ed1b08104",
+   "sha256": "d901b47f8385c7014e89c15f9d5bfd59ab3892667ec2aa943423d1725862837b",
+   "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.4.2-v26.11.7/cogwork.zip"
   }
  ],
  "failed": [
