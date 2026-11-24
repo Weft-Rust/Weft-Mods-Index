@@ -43,6 +43,16 @@
    "id": "cogwork",
    "builds": [
     {
+     "version": "0.4.3",
+     "weft": "v26.11.7",
+     "abi": "e7163e8ed1b08104",
+     "url": "https://github.com/Weft-Rust/Weft-Mods-Index/releases/download/cogwork-0.4.3-v26.11.7/cogwork.zip",
+     "sha256": "c12e600fe0c32cddc0461c4e1b63c26854d12c199c0e12441fe18bc75a82f12d",
+     "deps": [],
+     "verified": false,
+     "auto": false
+    },
+    {
      "version": "0.4.2",
      "weft": "v26.11.7",
      "abi": "e7163e8ed1b08104",
