@@ -1,0 +1,15 @@
+﻿# Shown in the launcher. The newest version's say what the mod is.
+name = "jei_sidebar"
+summary = "JEI-style item search grid, favorites and quick-craft for Weft."
+
+# What is built: the crate in `dir` of `repo` at `commit`, against the SDK of `weft`.
+repo = "https://github.com/speedmantransformer-web/JEI"
+dir = ""
+commit = "d04c6d9ed82eca08d23c1e3f6028225ce267e356"
+weft = "v26.11.7"
+# Mod ids it needs besides base, installed with it.
+deps = []
+# The GitHub login the id belongs to: only they can add versions.
+owner = "speedmantransformer-web"
+# Set by a maintainer who read the source of this commit.
+reviewed = ""
